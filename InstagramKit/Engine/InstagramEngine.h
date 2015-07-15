@@ -20,7 +20,6 @@
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
-#import <UIKit/UIKit.h>
 #import "InstagramKitConstants.h"
 
 @interface InstagramEngine : NSObject
